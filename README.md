@@ -23,7 +23,6 @@ year="2025",
 publisher="Springer Nature Switzerland",
 address="Cham",
 pages="477--492",
-abstract="Legal informatics increasingly explores new frontiers due to the digitization of law. The availability of legal activities data in information systems enables the exploitation of computational technologies and algorithms. This is the case of mining event logs to automatically derive meaningful knowledge. The paper focuses on the automated analysis of a large dataset of public procurements, contract awards and complaint procedures. Process discovery techniques are applied on a real legal dataset of Italian procurement processes. In particular, variant analysis is explored to detect meaningful differences in the process variants. The results demonstrate the significance of applying automated log file analysis techniques in the legal field.",
 isbn="978-3-031-74630-7"
 }
 ```
